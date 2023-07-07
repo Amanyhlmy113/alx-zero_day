@@ -1,6 +1,2 @@
 #!/bin/bash
-echo "ALX"
-exit
-Q
-q
-quit
+echo "ALX School is so cool!"
